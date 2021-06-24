@@ -1,11 +1,11 @@
 #!/bin/sh
 #SteamCMD quick game install
 #Tyler Wight
-#Change these two variables to install any game. The name will be used for the folder structure and the user that is created.
+#Change these two variables to install any game. The name will be used for the folder structure and the user that is created. Example settings given
 #=====================
-gamename=valheim2
+gamename=valheim
 gamesteamcode=896660
-installpath="/home/valheim2"
+installpath="/opt"
 #=====================
 
 
