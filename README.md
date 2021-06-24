@@ -20,7 +20,7 @@ user@testscript:~/steamcmd_quick_game_install$ ls
 steamcmd_quick_game_install.sh
 ```
 
-edit the script with a text editor, in thi case nano
+edit the script with a text editor, in this case nano
 
 ```
 user@testscript:~/steamcmd_quick_game_install$ nano steamcmd_quick_game_install.sh
