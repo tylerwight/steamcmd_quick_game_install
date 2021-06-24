@@ -29,10 +29,10 @@ user@testscript:~/steamcmd_quick_game_install$ nano steamcmd_quick_game_install.
 
 change the 3 variables at the top as per the comments
 
-save and exit
+![image](https://user-images.githubusercontent.com/27289794/123318700-be006780-d4ec-11eb-81f2-bd57ac338999.png)
 
 
-run the script
+save and then run the script
 
 
 
