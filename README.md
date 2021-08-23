@@ -2,7 +2,7 @@
 
 A tool that will setup steamcmd, create a user space for a specific game, and download the game to a specific location. For many games this is all you need to get it running. You can re-run the script over and over and it is designed not to screw anything up it has already done (like make user accounts, etc.). This means you can run this script over with the same settings to update the game.
 
-## to use
+## How to use
 
 clone the repo, enter the directory to find the script
 
